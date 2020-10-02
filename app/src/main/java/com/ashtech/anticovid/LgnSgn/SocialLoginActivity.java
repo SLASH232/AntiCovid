@@ -107,6 +107,7 @@ public class SocialLoginActivity extends AppCompatActivity {
     @Override
     protected void onStart() {
         super.onStart();
+
         mAuth.addAuthStateListener(firebaseAuthListener);
     }
 

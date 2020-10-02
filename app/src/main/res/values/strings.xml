@@ -3,4 +3,5 @@
     <string name="title_activity_social_maps">Map</string>
     <string name="title_activity_users_maps">Map</string>
     <string name="title_activity_social_trial">Map</string>
+    <string name="title_activity_geo_fencing">Map</string>
 </resources>
